@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\bin\Debug\lab 7.exe.config
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\bin\Debug\lab 7.exe
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\bin\Debug\lab 7.pdb
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\obj\Debug\lab 7.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\obj\Debug\lab 7.exe
+c:\users\andrei\documents\visual studio 2017\Projects\lab 7\lab 7\obj\Debug\lab 7.pdb
